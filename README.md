@@ -1,6 +1,6 @@
-# Node.js Hello World Sample
+# Node.js Visitor Tracking App - Backend
 
-This application demonstrates a simple, reusable Node.js web application based on the Express framework.
+This application demonstrates a simple, Node.js web application based on the Express framework and IBM Cloudant DB.
 
 ## Run the app locally
 
