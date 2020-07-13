@@ -398,13 +398,8 @@ app.get("/hello", /* @callback */ function(req, res) {
 	res.send("Hello, world");
 });
 
-
-/*
 // serve the files out of ./public as our main files
 app.use(express.static(__dirname + '/public'));
-*/
-
-
 
 // get the app environment from Cloud Foundry
 var appEnv = cfenv.getAppEnv();
