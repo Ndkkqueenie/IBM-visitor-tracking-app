@@ -1,13 +1,6 @@
-/*eslint-env node*/
-/*eslint-disable no-unused-params */
-
 //------------------------------------------------------------------------------
-// node.js starter application for Bluemix
+// Make sure to have this CloudantCred variable in env or secret file but only leave it here as tutorial
 //------------------------------------------------------------------------------
-
-// This application uses express as its web server
-// for more info, see: http://expressjs.com
-
 var cloudantCred = {
   "apikey": "CeAwtwa08uTllpls8ctXzP5K9vdfI3HJN-V1kfkWle2z",
   "host": "740c1b14-989f-4850-8e13-580540b75f6d-bluemix.cloudantnosqldb.appdomain.cloud",
